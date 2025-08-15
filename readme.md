@@ -42,8 +42,17 @@ Para salvar as modificações feitas.
     git commit -m "mensagem que deseja"
 ```
 
-Para enviar ao Github as adicições ou midificações.
+Para salvar as alterações que estão no Github utilizamos o pull <br>.
+**IMPORTANTE**: sempre deve baixar a ultima versão da nuvem antes de enviar a atual do computador 
 
 ```bash
-    git push origin main/master
+    git pull 
 ```
+Para enviar os commits do pc para o GitHub utilizamos o push.
+
+```bash
+    git push 
+```
+
+
+
